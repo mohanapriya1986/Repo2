@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DECA-3F50
+
+ Directory of C:\Users\mohan\Desktop\MyProjectGIT
+
+31/01/2024  12:12    <DIR>          .
+31/01/2024  12:12    <DIR>          ..
+31/01/2024  12:11    <DIR>          .git
+31/01/2024  12:12                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  137,590,800,384 bytes free
